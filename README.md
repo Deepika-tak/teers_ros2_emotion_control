@@ -8,9 +8,7 @@
 
 ## Project Description
 
-**TEERS (Tactile & Emotion Engineered Robotic System)** is an edge-native Affective Human-Robot Interaction (HRI) framework designed to enable real-time, closed-loop teleoperation of mobile robots using human facial expressions. Built on **ROS 2 Jazzy** and evaluated with a **TurtleBot3 inside Gazebo**, the system bridges computer vision and kinematic motion control by extracting 468 3D facial landmarks via MediaPipe, classifying cognitive emotional states using an Echo State Network (ESN), and mapping predicted states directly into differential drive velocity vectors ($v, \omega$). 
-
-This repository serves as the practical implementation and empirical validation for the authored research book chapter: *"Edge-Native Affective HRI: Closed-Loop Emotion Kinematics in ROS 2."*
+**TEERS (Tactile & Emotion Engineered Robotic System)** is an edge-native Affective Human-Robot Interaction (HRI) framework designed to enable real-time, closed-loop teleoperation of mobile robots using human facial expressions. Built on **ROS 2 Jazzy** and evaluated with a **TurtleBot3 inside Gazebo**, the system bridges computer vision and kinematic motion control by extracting 468 3D facial landmarks via MediaPipe, classifying cognitive emotional states using an Echo State Network (ESN), and mapping predicted states directly into differential drive velocity vectors ($v, \omega$)."*
 
 ---
 
